@@ -1,0 +1,29 @@
+.blog{
+    background-color: rgba(122, 122, 122, 0.6);
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 30px;
+}
+
+.blog img {
+    background-size: cover;
+    border-radius: 60px;
+    width: 600px;
+    padding: 40px;
+    height: 100%;
+    z-index: 1;
+}
+
+.blog .content {
+    padding-right: 40px;
+    color: #fff;
+}
+
+.blog .content h1{
+    padding-bottom: 30px;
+}
+
+.blog .content .btn {
+    margin-top: 10px;
+}
